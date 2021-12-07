@@ -21,4 +21,4 @@ or
 
 # application looks like:-
 
-<img src="src\assets\color_app.png" width="128"/>
+<img src="src\assets\color_app2.png" width="128"/>
